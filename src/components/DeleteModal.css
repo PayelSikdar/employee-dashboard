@@ -1,0 +1,22 @@
+.delete-modal-height{
+    height: 50%;
+}
+.delete-modal{
+    height: 40vh;
+    margin-top: 20px;
+    width: 35vw;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+}
+.warning{
+    color: rgb(247, 177, 85);
+}
+.delete-button{
+    border: none;
+    font-size: 15px;
+    background-color: rgb(244, 71, 24);
+    color: white;
+    padding: 8px 15px;
+    cursor: pointer;
+}
